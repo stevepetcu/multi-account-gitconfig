@@ -8,7 +8,7 @@ For example, working on personal projects, work projects etc.
 ## How to use this repo?
 > Note: this has only been tested on macOS.
 1. Clone the repo.
-2. Copy all the files to your user directory (`~` or `/Users/<your-user-name>`)
+2. Copy all the files to your user directory (`~` or `/Users/<your-user-name>`).
 3. Edit the `.gitconfig-personal` and `.gitconfig-work` files to replace your own email/user name details.
 4. Edit the `.gitconfig` file. Replace `<personal-projects/subpath>` and `<work-projects/subpath>` with the parent folder or subpath to your personal and work projects.
 
