@@ -1,0 +1,4 @@
+[includeIf "gitdir:**/<personal-projects/subpath>/**"]
+  path = ~/.gitconfig-personal
+[includeIf "gitdir:**/<work-projects/subpath>/**"]
+  path = ~/.gitconfig-work
